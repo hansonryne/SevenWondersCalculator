@@ -10,6 +10,7 @@ Identify the winner's strongest section
 Save game data to a database
 Input validation
 Load into a Rails web application
+Make game a little less verbose (most feedback was for debugging/development purposes)
 =end
 
 require_relative 'playerclass'
